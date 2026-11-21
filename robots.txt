@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aprilfab-portfolio.netlify.app/sitemap.xml
